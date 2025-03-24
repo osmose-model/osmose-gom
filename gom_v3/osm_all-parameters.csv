@@ -1,0 +1,30 @@
+# OSM main configuration file;
+;
+# Time;
+simulation.time.ndtPerYear;12
+simulation.time.nyear;134
+;
+# Restart;
+simulation.restart.file;null
+simulation.restart.recordfrequency.ndt;null
+;
+# Advanced parameters;
+simulation.nschool;20
+simulation.ncpu;1
+simulation.nplankton;9
+simulation.nsimulation;10
+simulation.nspecies;12
+;
+# Configuration files;
+osmose.configuration.output;osm_param-output.csv
+osmose.configuration.movement;osm_param-movement.csv
+osmose.configuration.mpa;osm_param-mpa.csv
+osmose.configuration.mortality.fishing;osm_param-fishing.csv
+osmose.configuration.mortality.natural;osm_param-natural-mortality.csv
+osmose.configuration.mortality.predation;osm_param-predation.csv
+osmose.configuration.mortality.starvation;osm_param-starvation.csv
+osmose.configuration.reproduction;osm_param-reproduction.csv
+osmose.configuration.species;osm_param-species.csv
+osmose.configuration.plankton;osm_param-ltl.csv
+osmose.configuration.grid;osm_param-grid.csv
+osmose.configuration.initialization;osm_param-init-pop.csv

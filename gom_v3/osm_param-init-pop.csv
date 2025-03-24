@@ -1,0 +1,21 @@
+# Type of initialization: biomass | spectrum;
+population.initialization.method;biomass
+;
+# Init by target biomass (tons);
+population.initialization.biomass.sp0;9703
+population.initialization.biomass.sp1;1328
+population.initialization.biomass.sp2;19759
+population.initialization.biomass.sp3;9189
+population.initialization.biomass.sp4;8786
+population.initialization.biomass.sp5;289000
+population.initialization.biomass.sp6;162120
+population.initialization.biomass.sp7;303450
+population.initialization.biomass.sp8;276980
+population.initialization.biomass.sp9;78862
+population.initialization.biomass.sp10;154710
+population.initialization.biomass.sp11;109640
+;
+# Init by spectrum (not used here);
+population.initialization.spectrum.intercept;null
+population.initialization.spectrum.range;null
+population.initialization.spectrum.slope;null

@@ -1,0 +1,23 @@
+##################;
+# Parameters that are estimated by the genetic algorithm;
+# + larval mortality;
+# + plantkton accessibility;
+# Leave relative pathname as it is, do not change it;
+osmose.configuration.calibration = calibration-parameters.csv;
+
+
+###################;
+# Other parameters;
+osmose.configuration.output;/home1/caparmor/agruss/ea/ea_gom_v3/LIB/gom_v3/osm_param-output.csv
+osmose.configuration.movement;/home1/caparmor/agruss/ea/ea_gom_v3/LIB/gom_v3/osm_param-movement.csv
+osmose.configuration.mpa;/home1/caparmor/agruss/ea/ea_gom_v3/LIB/gom_v3/osm_param-mpa.csv
+osmose.configuration.mortality.fishing;/home1/caparmor/agruss/ea/ea_gom_v3/LIB/gom_v3/osm_param-fishing.csv
+osmose.configuration.mortality.natural;/home1/caparmor/agruss/ea/ea_gom_v3/LIB/gom_v3/osm_param-natural-mortality.csv
+osmose.configuration.mortality.predation;/home1/caparmor/agruss/ea/ea_gom_v3/LIB/gom_v3/osm_param-predation.csv
+osmose.configuration.mortality.starvation;/home1/caparmor/agruss/ea/ea_gom_v3/LIB/gom_v3/osm_param-starvation.csv
+osmose.configuration.reproduction;/home1/caparmor/agruss/ea/ea_gom_v3/LIB/gom_v3/osm_param-reproduction.csv
+osmose.configuration.species;/home1/caparmor/agruss/ea/ea_gom_v3/LIB/gom_v3/osm_param-species.csv
+osmose.configuration.plankton;/home1/caparmor/agruss/ea/ea_gom_v3/LIB/gom_v3/osm_param-ltl.csv
+osmose.configuration.grid;/home1/caparmor/agruss/ea/ea_gom_v3/LIB/gom_v3/osm_param-grid.csv
+osmose.configuration.initialization;/home1/caparmor/agruss/ea/ea_gom_v3/LIB/gom_v3/osm_param-init-pop.csv
+osmose.configuration.simulation;/home1/caparmor/agruss/ea/ea_gom_v3/LIB/gom_v3/osm_param-simulation.csv

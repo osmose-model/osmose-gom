@@ -1,0 +1,55 @@
+# Annual F;
+mortality.fishing.rate.sp0;0.16
+mortality.fishing.rate.sp1;0.609
+mortality.fishing.rate.sp2;0.223
+mortality.fishing.rate.sp3;0.53
+mortality.fishing.rate.sp4;0.55
+mortality.fishing.rate.sp5;0.2
+mortality.fishing.rate.sp6;0.17
+mortality.fishing.rate.sp7;0.12
+mortality.fishing.rate.sp8;0.28
+mortality.fishing.rate.sp9;0
+mortality.fishing.rate.sp10;0.36
+mortality.fishing.rate.sp11;0.566
+;
+# Recruitment age (year);
+mortality.fishing.recruitment.age.sp0;null
+mortality.fishing.recruitment.age.sp1;null
+mortality.fishing.recruitment.age.sp2;null
+mortality.fishing.recruitment.age.sp3;null
+mortality.fishing.recruitment.age.sp4;null
+mortality.fishing.recruitment.age.sp5;null
+mortality.fishing.recruitment.age.sp6;null
+mortality.fishing.recruitment.age.sp7;null
+mortality.fishing.recruitment.age.sp8;null
+mortality.fishing.recruitment.age.sp9;null
+mortality.fishing.recruitment.age.sp10;null
+mortality.fishing.recruitment.age.sp11;null
+;
+# Recruitment size (cm);
+mortality.fishing.recruitment.size.sp0;32.54
+mortality.fishing.recruitment.size.sp1;14.81
+mortality.fishing.recruitment.size.sp2;25.24
+mortality.fishing.recruitment.size.sp3;34.33
+mortality.fishing.recruitment.size.sp4;22.91
+mortality.fishing.recruitment.size.sp5;8.50
+mortality.fishing.recruitment.size.sp6;2.42
+mortality.fishing.recruitment.size.sp7;16.48
+mortality.fishing.recruitment.size.sp8;19.00
+mortality.fishing.recruitment.size.sp9;0.50
+mortality.fishing.recruitment.size.sp10;7.55
+mortality.fishing.recruitment.size.sp11;12.70
+;
+# Seasonality;
+mortality.fishing.season.distrib.file.sp0;/home1/caparmor/agruss/ea/ea_gom_v3/LIB/gom_v3/fishing/fishing-seasonality-King_mackerel.csv
+mortality.fishing.season.distrib.file.sp1;/home1/caparmor/agruss/ea/ea_gom_v3/LIB/gom_v3/fishing/fishing-seasonality-Amberjacks.csv
+mortality.fishing.season.distrib.file.sp2;/home1/caparmor/agruss/ea/ea_gom_v3/LIB/gom_v3/fishing/fishing-seasonality-Red_grouper.csv
+mortality.fishing.season.distrib.file.sp3;/home1/caparmor/agruss/ea/ea_gom_v3/LIB/gom_v3/fishing/fishing-seasonality-Gag_grouper.csv
+mortality.fishing.season.distrib.file.sp4;/home1/caparmor/agruss/ea/ea_gom_v3/LIB/gom_v3/fishing/fishing-seasonality-Red_snapper.csv
+mortality.fishing.season.distrib.file.sp5;/home1/caparmor/agruss/ea/ea_gom_v3/LIB/gom_v3/fishing/fishing-seasonality-Sardine_herring_scad_complex.csv
+mortality.fishing.season.distrib.file.sp6;/home1/caparmor/agruss/ea/ea_gom_v3/LIB/gom_v3/fishing/fishing-seasonality-Anchovies_and_silversides.csv
+mortality.fishing.season.distrib.file.sp7;/home1/caparmor/agruss/ea/ea_gom_v3/LIB/gom_v3/fishing/fishing-seasonality-Coastal_omnivores.csv
+mortality.fishing.season.distrib.file.sp8;/home1/caparmor/agruss/ea/ea_gom_v3/LIB/gom_v3/fishing/fishing-seasonality-Reef_carnivores.csv
+mortality.fishing.season.distrib.file.sp9;/home1/caparmor/agruss/ea/ea_gom_v3/LIB/gom_v3/fishing/fishing-seasonality-Reef_omnivores.csv
+mortality.fishing.season.distrib.file.sp10;/home1/caparmor/agruss/ea/ea_gom_v3/LIB/gom_v3/fishing/fishing-seasonality-Shrimps.csv
+mortality.fishing.season.distrib.file.sp11;/home1/caparmor/agruss/ea/ea_gom_v3/LIB/gom_v3/fishing/fishing-seasonality-Large_crabs.csv
